@@ -1,0 +1,255 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td { 
+    margin:0;
+    padding:0;
+}
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+fieldset,img { 
+    border:0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+    font-style:normal;
+    font-weight:normal;
+}
+ol,ul {
+    list-style:none;
+}
+caption,th {
+    text-align:left;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-size:100%;
+    font-weight:normal;
+}
+q:before,q:after {
+    content:'';
+}
+abbr,acronym { border:0;
+}
+ 
+
+body { 
+    background: url(../images/mainbg_one.jpg) top left repeat-x #3f3e3e;
+    margin:0px;
+    font-family:Arial, Helvetica, sans-serif;   font-size:15px; color:#666666; font-weight:normal;
+    color:#666666;
+    background-color:#edecea;
+    }   
+
+#outer {
+  width:1007px;
+  margin-top:0px; height:auto;
+  }
+   
+#container {
+  width:1007px;
+  margin-top:0px;  
+  
+  } 
+  
+.catering_title {
+  width:1007px; height:34px; float:left;
+  text-align:right; margin-bottom:5px;
+  
+   
+    } 
+    
+.image{
+margin-top:10px;}  
+
+.location{ width:400px; height:310px;}
+    
+ #mainmenu {
+  width:1007px; height:30px; float:left;
+  text-align:left;
+  margin-top:0px;  
+    } 
+    
+ #content_outer {
+  width:1007px; float:left;
+  text-align:left;
+  margin-top:0px;
+  background-color: #FFFFFF;
+  padding:0px 0px 20px 0px;
+    } 
+    
+.innercontent_left{
+        padding-left:0px; padding-top:0px; padding-right:15px; text-align:justify; font-family:"Century Gothic", Gadget, sans-serif; font-size:12px; color:#666666; line-height:0px;}
+        
+.innercontent_right img{
+        float:left; padding-right:10px; padding-bottom:10px;}           
+    
+.leftpart_outer{
+  width:603px; float:left;
+  text-align:left;
+  margin-top:0px; padding-left:30px; padding-top:15px; background-color:#FFF;  
+    } 
+    
+.logo{
+        width:378px; height:60px; float:left;}  
+    
+h1{ font-family:"Century Gothic", Gadget, sans-serif; font-size:32px; color:#666;font-weight:normal;}
+
+h2{ font-family:"Century Gothic", Gadget, sans-serif; font-size:24px; color:#F00; font-weight:normal;}
+
+h3{ font-family:"Century Gothic", Gadget, sans-serif; font-size:14px; color: #090; font-weight:bold;}
+
+.subTextOuter{float:left;  margin-top:5px; width:578px; margin-bottom:10px; border-bottom:dotted 1px #FC3;}
+
+#location{ width:500px; height:500px; float:left;}
+
+.license{
+font-family:"Century Gothic", Gadget, sans-serif;
+color:#9e6901;}
+
+#content_part{
+        width:570px; padding-right:8px; float: left; font-family:"Century Gothic", Gadget, sans-serif; font-size:12px; color:#666; text-align:justify;}
+        
+        
+#content_part a{ font-family:"Century Gothic", Gadget, sans-serif; font-weight:bold; text-decoration: none; color:#f10000;}
+
+#content_part a:hover{font-weight:bold; text-decoration:underline; color: #000000; font-family:"Century Gothic", Gadget, sans-serif;}       
+        
+        
+.redbold{
+    font-family:"Century Gothic", Gadget, sans-serif;
+    font-size:14px;
+    color:#FF0000;
+    font-weight:bold;}
+
+.bullets3{width:580px; height: auto; float:left;  padding-left:28px; padding-bottom:0px; text-align:left;background: url(../images/iconpng2.png) left top no-repeat ; margin-top:3px; font-size:12px; }
+
+#contentpart_leftbox{ 
+    width:510px;
+    height:auto;
+    float:left;
+    background:#FFF;
+    text-align:left;
+    border:1px solid #e8e9e9;
+    padding-top:20px; padding-left:24px;
+    margin-right:18px; padding-right:15px; padding-bottom:20px; text-align:justify; margin-bottom:10px; line-height:16px; margin-top:10px
+    
+    }
+            
+.readmore{width:70px; float:left; height:20px; background-color: #F00; padding:7px 0 0 8px; font-family: 'Calibri'; color:#FFF; font-size:12px; font-weight:bold; margin-top:16px;}
+
+.readmore:hover{ background-color: #CCC; transition-duration: 0.5s;-moz-transition-duration:0.5s;-webkit-transition-duration:0.5s;-o-transition-duration:0.5s;}
+
+.readmore a{  font-family: 'Calibri'; color:#FFF; font-size:12px; font-weight:bold; text-decoration:none;}
+
+.readmore a:hover{  font-family: 'Calibri'; color: #F00; font-size:12px; font-weight:bold;}
+        
+.rightcontent_outer{
+        width:374px; float:right;
+        text-align:left; padding-top:20px; padding-left:0px; background-color:#FFF; }
+        
+.rightcontent_form{
+        width:300px; height:auto; float:left;
+        text-align:left; padding-left:0px;  margin-top:90px; border:#e5dddd solid 1px; padding-left:15px;  font-size:12px;}
+        
+    
+        
+.banner{
+        width:527px; height:414px; float:left;} 
+                    
+.threeimages{
+          width:1007px; height:82px; float:left; margin-top:0px;}
+         
+.footer{
+        width:987px; height:21px; float:left; font-family:Arial, Helvetica, sans-serif; font-size:11px; background-color:#FFF; text-align:left; padding-top:5px; padding-left:20px;}
+        
+.footer a:hover{ color:#0F0;}       
+.footer a{ color:#FFF;}     
+    
+        
+        
+        
+  
+  /*** 
+set the width and height to match your images 
+**/
+
+#slideshow {
+    position:relative;
+    z-index:-1;
+}
+
+#slideshow IMG {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+#slideshow img {
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+            
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+            
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+        
+@media screen and (max-width: 1024px){
+    img.bg {
+    left: 50%;
+    margin-left: -512px; 
+}
+}
+        
+#page-wrap { 
+    position: relative;
+    width: 400px; 
+    margin: 50px auto; 
+    padding: 20px; 
+    background: #fff; 
+    -moz-box-shadow: 0 0 20px black; 
+    -webkit-box-shadow: 0 0 20px black; 
+    box-shadow: 0 0 20px black; 
+}
+
+p {      
+    margin: 0 0 5px 0;  
+}
+
+
+
+
+.gallery_outer{
+  width:640px; float:left;
+  text-align:left;
+  margin-top:0px; padding-left:30px; padding-top:15px; background-color:#FFF;  
+    } 
+#galleryleft_part{
+        width:632px; padding-right:8px; float: left; font-family:"Century Gothic", Gadget, sans-serif; font-size:12px; color:#666; text-align:justify;} 
+.readmore{width:70px; float:left; height:20px; background-color: #F00; padding:7px 0 0 8px; font-family: 'Calibri'; color:#FFF; font-size:12px; font-weight:bold; margin-top:16px;}     
+
+
+.subTextgallery{float:left;  margin-top:5px; width:600px; margin-bottom:10px; border-bottom:dotted 1px #FC3;}   
+
+.rightpart_gallery{
+        width:317px; height:438px; float:right;
+        text-align:left; padding-top:20px; padding-left:20px; background-color:#FFF;}
+
+        
+#gallery_image{
+        width:194px; height:98px; float:left;
+        margin-right:10px; margin-bottom:10px;}     
